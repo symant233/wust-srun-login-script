@@ -1,3 +1,9 @@
+# 更新 武汉科技大学版
+
+更改了部分代码，已实现WUST-WiFi6的登陆。更改`demo.py`中的用户名密码登陆。
+
+---
+
 加密逻辑来自（目前404了）：https://coding.net/u/huxiaofan1223/p/jxnu_srun/git
 
 另有支持多平台（包括openwrt）的golang版本，请见：https://github.com/Mmx233/BitSrunLoginGo
